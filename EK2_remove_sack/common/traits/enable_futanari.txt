@@ -1,0 +1,35 @@
+﻿futa = {
+	physical = yes
+	valid_sex = female
+
+	random_creation = 0.001
+	ruler_designer_cost = 10
+
+	inherit_chance = 1
+	both_parent_has_trait_inherit_chance = 40
+
+	shown_in_ruler_designer = yes
+
+	general_opinion = -15    # -10 for albino
+	dynasty_opinion = 10
+	same_opinion = 20        # 10 for albino. +5 bonus because of child fathering
+													 #  and marriage problems
+	dread_baseline_add = 10  # 15 for albino
+
+	compatibility = {
+		lustful = @pos_compat_low
+		chaste = @neg_compat_low
+	}
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_futa_desc
+			}
+			desc = trait_futa_character_desc
+		}
+	}
+}

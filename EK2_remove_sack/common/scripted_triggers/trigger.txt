@@ -1,0 +1,25 @@
+﻿carn_is_futa_trigger = {
+	has_trait = futa
+}
+
+carn_has_erection = {
+	always = no
+}
+
+has_penis_trigger = {
+	# Without 18yo bound, penis inside brown panties is shown, it looks bad
+	age >= 18
+	OR = {
+		trigger_if = {
+			limit = { is_male = yes }
+			Not = { has_character_flag = full_genital_morph }
+		}
+		trigger_else = {
+			OR = {
+				carn_is_futa_trigger = yes
+				has_character_flag = full_genital_morph
+				has_character_flag = half_genital_morph
+			}
+		}
+	}
+}
