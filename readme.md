@@ -1,4 +1,4 @@
-# EK2 - no sack on ruler designer
+# EK2 - no sack in ruler designer
 
 This mod removes an ugly sack put onto a future ruler in ruler designer, and also introduces hermaphrodite (aka futanari) characters.
 
