@@ -31,7 +31,7 @@ I hope someone will create a working compatibility patch.
 * Penis on hermaphrodite does not show during character creation; can be seen in game, for instance in sex or voyer events.
 * Unclosed torso often has a thin crack between shoulders and neck.
 
-If you know how to solve the problems, please file bug report. Note that I previously experienced problem number one in game version 1.15. My load [order](https://gist.github.com/krisk0/3c51136a877afd606c184a575400922f).
+If you know how to solve the problems, please file bug report. Note that I previously experienced problem number one in game version 1.15 in my games (load order [here](https://gist.github.com/krisk0/3c51136a877afd606c184a575400922f).
 
 Hint: to see your tits and penis, create flagelating hermaphrodite and decide to flagellate.
 
