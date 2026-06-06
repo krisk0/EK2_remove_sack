@@ -1,4 +1,4 @@
-# EK2 - no sack in ruler designer
+# EK2 - no Sack in Ruler Designer
 
 This mod removes an ugly sack put onto a future ruler in ruler designer, and also introduces hermaphrodite (aka futanari) characters.
 
@@ -11,8 +11,7 @@ This mod removes an ugly sack put onto a future ruler in ruler designer, and als
 
 If you play vanilla game, use [CBO-base](https://github.com/csirke128/CBO-Base) instead.
 
-CBO-base mod does a lot more than this mod. This mod only changes clothes in ruler designer, and makes it possible to create hermaphrodite character (that is female 
-with penis).
+CBO-base mod does a lot more than this mod. This mod only changes clothes in ruler designer, and makes it possible to create hermaphrodite character (that is female with penis).
 
 Clothes change is hopefully the same as in CBO-base. That is nothing on adults and nice brown underware on children.
 
@@ -33,7 +32,7 @@ I hope someone will create a working compatibility patch.
 
 If you know how to solve the problems, please file bug report. Note that I previously experienced problem number one in game version 1.15 in my games (load order [here](https://gist.github.com/krisk0/3c51136a877afd606c184a575400922f).
 
-Hint: to see your tits and penis, create flagelating hermaphrodite and decide to flagellate.
+Hint: to see your tits and penis, create flagellating hermaphrodite and decide to flagellate.
 
 ## My mods
 
