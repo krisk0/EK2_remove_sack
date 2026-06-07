@@ -17,11 +17,15 @@ Clothes change is hopefully the same as in CBO-base. That is nothing on adults a
 
 Unfortunately this mod does not create an opportunity for hermaphrodite to impregnate her sex partner. This will be implemented by another mod I am working on.
 
+## Legal notice
+
+Some code taken from [CBO-base](https://github.com/csirke128/CBO-Base) and [Elder Kings](https://www.nexusmods.com/crusaderkings3/mods/32) mods.
+
 ## Note about compatibiluty
 
 csirke128, thank you for your wonderful mods `CBO-unofficial…`. I used your mods before but cannot do it anymore due to incompatibility.
 
-[pharaox](https://github.com/pharaox)' carnalitas mods are incompatible to EK2, and never really where.
+[pharaox](https://github.com/pharaox)' carnalitas mods are incompatible with EK2. To the best of my knowledge, no valid compatability patch exists for EK version 0.18.0.2.
 
 I hope someone will create a working compatibility patch.
 
